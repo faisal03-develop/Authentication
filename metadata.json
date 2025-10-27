@@ -1,0 +1,5 @@
+{
+  "name": "React Auth with Access Token Demo",
+  "description": "A React application to demonstrate a user login flow using data from JSONPlaceholder and to explain the concept of access tokens for authentication.",
+  "requestFramePermissions": []
+}
